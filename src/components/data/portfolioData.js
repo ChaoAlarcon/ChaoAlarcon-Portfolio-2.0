@@ -17,13 +17,13 @@
  */
 export const portafolioData = [
 	{
-		imgSrc: '',
-		title: 'Restaurant',
-		skills: ['Java', ''],
+		imgSrc: '../public/img/OnStream.png',
+		title: 'OnStream',
+		skills: ['HTML', 'CSS', 'JavaScript'],
 		descripcion:
-			'Laboris ex laboris mollit esse fugiat aute cillum nostrud enim dolor sit. Reprehenderit et non nulla irure aute nostrud commodo aute.',
-		demoURL: '',
-		repoURL: '',
+			'HTML5 and CSS3 Technologies practice project.',
+		demoURL: 'http://chaoalarcon.ct.ws/Sitio%20informativo/',
+		repoURL: 'https://github.com/ChaoAlarcon/OnStream-Website',
 		anim: 'fade-right',
 	},
 	{
@@ -88,6 +88,8 @@ const skillIcons = {
 	StyledComponents: 'skill-icons:styledcomponents',
 	Bootstrap: 'skill-icons:bootstrap',
 	Tailwind: 'skill-icons:tailwindcss-dark',
+	Java: 'skill-icons:java',
+	HTML: 'skill-icons:html',
 };
 
 /**
