@@ -19,7 +19,7 @@ export const portafolioData = [
 	{
 		imgSrc: '',
 		title: 'Restaurant',
-		skills: ['React', 'StyledComponents'],
+		skills: ['Java', ''],
 		descripcion:
 			'Laboris ex laboris mollit esse fugiat aute cillum nostrud enim dolor sit. Reprehenderit et non nulla irure aute nostrud commodo aute.',
 		demoURL: '',
