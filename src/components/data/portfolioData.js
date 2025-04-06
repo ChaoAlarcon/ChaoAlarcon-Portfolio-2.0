@@ -1,5 +1,5 @@
 /**
- * @SofiDev Esto es JSDOC, si consideras que puede ser complicado solo borralo, es un comentario, no afectará en nada
+ * 
  * @typedef PortafolioData
  * @property {string} imgSrc Url de la imagen
  * @property {string} title Titulo de la tarjeta
@@ -17,7 +17,7 @@
  */
 export const portafolioData = [
 	{
-		imgSrc: 'https://dt2sdf0db8zob.cloudfront.net/wp-content/uploads/2021/06/copy-of-the-6-best-restaurant-website-templates-1.png',
+		imgSrc: '',
 		title: 'Restaurant',
 		skills: ['React', 'StyledComponents'],
 		descripcion:
