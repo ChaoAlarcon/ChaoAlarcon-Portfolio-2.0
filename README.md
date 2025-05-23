@@ -1,3 +1,6 @@
+# Colocar NavBar a la Izquierda
+
+
 ### start using this template by running:
  `npm create astro@latest -- --template SofiDevO/portfolio-sofidev-garrux`
 # Portfolio Template with Astro
