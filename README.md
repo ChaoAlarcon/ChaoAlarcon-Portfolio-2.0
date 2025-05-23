@@ -1,4 +1,4 @@
--Colocar NavBar a la Izquierda
+- Colocar NavBar a la Izquierda
 
 
 ### start using this template by running:
