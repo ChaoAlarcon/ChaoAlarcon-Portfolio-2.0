@@ -1,4 +1,5 @@
 - Colocar NavBar a la Izquierda
+- Poner foto se mi Setup
 
 
 ### start using this template by running:
