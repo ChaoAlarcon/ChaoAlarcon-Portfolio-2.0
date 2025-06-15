@@ -1,5 +1,6 @@
 - Colocar NavBar a la Izquierda
 - Poner foto se mi Setup
+- Agregar CV.json
 
 
 ### start using this template by running:
